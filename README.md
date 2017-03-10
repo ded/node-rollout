@@ -1,4 +1,6 @@
 ## Node Rollout
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/mix/node-rollout.svg)](https://greenkeeper.io/)
 [![CircleCI](https://circleci.com/gh/mix/node-rollout/tree/master.svg?style=svg)](https://circleci.com/gh/mix/node-rollout/tree/master)
 
 Feature rollout management for Node.js built on Redis
